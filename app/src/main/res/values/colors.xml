@@ -9,4 +9,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="dark_Blue">#0383BB</color>
     <color name="light_Blue">#07ABF2</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="accent_color">#1E88E5</color>
+    <color name="icon_color">#757575</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_color_secondary">#757575</color>
+
+
 </resources>
